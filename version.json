@@ -1,17 +1,19 @@
 {
-  "news": [
-    {"lang":"ko","text":"새 스킨 「SWEET」 등장!\n친구와 초대 방에서 한 판 하면 열려요"},
-    {"lang":"en","text":"New skin: SWEET!\nPlay one invite match with a friend to unlock it"},
-    {"lang":"ja","text":"新スキン「SWEET」登場！\n友だちと招待ルームで1回対戦すると解放"},
-    {"lang":"de","text":"Neuer Skin: SWEET!\nSpiel ein Einladungsmatch mit einem Freund zum Freischalten"},
-    {"lang":"fr","text":"Nouveau skin : SWEET !\nJoue une partie sur invitation avec un ami pour le débloquer"},
-    {"lang":"es","text":"¡Nuevo aspecto: SWEET!\nJuega una partida por invitación con un amigo para desbloquearlo"},
-    {"lang":"pt-BR","text":"Nova skin: SWEET!\nJogue uma partida por convite com um amigo para desbloquear"},
-    {"lang":"it","text":"Nuova skin: SWEET!\nGioca una partita su invito con un amico per sbloccarla"},
-    {"lang":"zh-Hant","text":"新造型「SWEET」登場！\n和朋友在邀請房間對戰一場即可解鎖"}
+  "note": [
+    {"lang":"en","text":"New skin SWEET is here!\nFinish one duel with a friend\nin an invite room to unlock it."},
+    {"lang":"ko","text":"새 스킨「달콤」이 나왔어요!\n친구와 초대 방에서\n대결 한 판이면 열려요."},
+    {"lang":"ja","text":"新スキン「スイート」登場！\n友だちと招待ルームで\n1戦すると解放されます。"},
+    {"lang":"de","text":"Neuer Skin SÜSS!\nBeende ein Duell mit einem Freund\nin einem privaten Raum,\num ihn freizuschalten."},
+    {"lang":"fr","text":"Nouveau skin SUCRÉ !\nTerminez un duel avec un ami\ndans un salon privé\npour le débloquer."},
+    {"lang":"es","text":"¡Nuevo aspecto DULCE!\nTermina un duelo con un amigo\nen una sala privada\npara desbloquearlo."},
+    {"lang":"pt-BR","text":"Nova skin DOCE!\nTermine um duelo com um amigo\nem uma sala privada\npara desbloquear."},
+    {"lang":"it","text":"Nuova skin DOLCE!\nConcludi una sfida con un amico\nin una stanza privata\nper sbloccarla."},
+    {"lang":"zh-Hant","text":"新造型「甜蜜」登場！\n和朋友在好友房\n完成一場對戰即可解鎖。"},
+    {"lang":"zh-Hans","text":"新皮肤「甜蜜」上线！\n和朋友在好友房\n完成一场对战即可解锁。"},
+    {"lang":"ru","text":"Новый скин «СЛАДКОЕ»!\nЗавершите дуэль с другом\nв приватной комнате,\nчтобы открыть его."}
   ],
   "platforms": [
-    {"os":"android","latest":"2.0.0"},
-    {"os":"ios","latest":"2.0.0"}
+    {"os":"android","min":"2.0.4"},
+    {"os":"ios","min":"2.0.4"}
   ]
 }
