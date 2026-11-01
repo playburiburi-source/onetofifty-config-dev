@@ -11,7 +11,7 @@
     {"lang":"zh-Hant","text":"新造型「SWEET」登場！\n和朋友在邀請房間對戰一場即可解鎖"}
   ],
   "platforms": [
-    {"os":"android","latest":"2.0.2"},
-    {"os":"ios","latest":"2.0.2"}
+    {"os":"android","min":"2.0.3"},
+    {"os":"ios","min":"2.0.3"}
   ]
 }
